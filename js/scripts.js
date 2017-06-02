@@ -16,7 +16,7 @@ $(document).ready(function(){
     var question5 = parseInt($("input:radio[name=question5]:checked").val());
     var userValue = add(question1, question2, question3, question4, question5);
 
-    if (userValue <= 5) {
+    if (userValue <= 6) {
       // $(".remove").removeClass();
       $("#cSharp").show();
       $("#initialShow").hide();
