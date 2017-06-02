@@ -1,3 +1,15 @@
+.jumbotron {
+  background-image: url(http://static1.squarespace.com/static/5524448ee4b0d6f6b83ab9e2/t/5759a4c71bbee022293505cd/1466190401806/);
+  background-color: inherit;
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: salmon;
+  text-align: right;
+}
+
+
+
+
 #trackResult {
   display: none;
 }
