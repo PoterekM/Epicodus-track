@@ -12,6 +12,11 @@ body {
   text-align: right;
 }
 
+.panel-heading {
+  font-weight: bold;
+  color: slateblue;
+}
+
 /*
 .remove {
   display: show;
