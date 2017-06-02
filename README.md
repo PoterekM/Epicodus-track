@@ -19,9 +19,9 @@ _In order to apply to Epicodus each student must decide what language they want 
 
 ## Known Bugs
 
-_There is not a way for the website to alert the user if they have not filled out a response.
+_There is not a way for the website to alert the user if they have not filled out a response._
 
-The application will not hide old responses for track recommendations_
+_The application will not hide old responses for track recommendations_
 
 ## Support and contact details
 
