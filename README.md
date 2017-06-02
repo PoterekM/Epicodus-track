@@ -14,7 +14,7 @@ _In order to apply to Epicodus each student must decide what language they want 
 *  _cd Desktop_
 *  _git clone https://github.com/PoterekM/Epicodus-track.git_
 * _then go to the folder and open index.html_
-* OR here is the remote link: poterekm.github.io/Epicodus-track/
+* _OR here is the remote link: poterekm.github.io/Epicodus-track/_
 
 
 ## Known Bugs
