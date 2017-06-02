@@ -26,14 +26,14 @@ $(document).ready(function(){
 
     var result
     if (userValue <= 4) {
-      result = alert("CSharp");
+
     } else if (userValue <=8) {
       result = alert("JavaScript");
     } else if (userValue <= 12) {
       result = alert("Ruby");
     }
     console.log(result);
-    // $("#trackResult").text(result);
+    $("#trackResult").show(userValue);
   });
 
 });
