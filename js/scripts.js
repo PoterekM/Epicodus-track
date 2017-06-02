@@ -19,6 +19,7 @@ $(document).ready(function(){
     var question4 = parseInt($("input:radio[name=question4]:checked").val());
     console.log(question4);
     alert(userValue(question1, question2, question3, question4));
+    console.log(userValue);
 
     var result;
     if (userValue <= 4) {
