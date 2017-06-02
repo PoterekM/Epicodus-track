@@ -1,3 +1,7 @@
 #trackResult {
   display: none;
 }
+
+#cSharp, #java, #ruby {
+  display: none;
+}

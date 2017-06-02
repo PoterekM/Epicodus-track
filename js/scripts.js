@@ -24,15 +24,14 @@ $(document).ready(function(){
     var userValue = add(question1, question2, question3, question4);
     console.log(userValue)
 
-    var result
     if (userValue <= 4) {
-
+      $("#cSharp").show();
     } else if (userValue <=8) {
       result = alert("JavaScript");
     } else if (userValue <= 12) {
       result = alert("Ruby");
     }
-    console.log(result);
+    // console.log(result);
     $("#trackResult").show(userValue);
   });
 
