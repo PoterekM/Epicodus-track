@@ -5,3 +5,7 @@
 #cSharp, #java, #ruby {
   display: none;
 }
+
+#initialShow {
+  display: show;
+}

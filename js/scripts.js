@@ -26,10 +26,12 @@ $(document).ready(function(){
 
     if (userValue <= 4) {
       $("#cSharp").show();
+      $("#initialShow").hide();
     } else if (userValue <=8) {
-      result = alert("JavaScript");
+      $("#initialPageShow").hide();
+      $("#java").show();
     } else if (userValue <= 12) {
-      result = alert("Ruby");
+      $("#ruby").show();
     }
     // console.log(result);
     $("#trackResult").show(userValue);
