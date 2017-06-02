@@ -12,8 +12,10 @@ body {
   text-align: right;
 }
 
-
-
+/*
+.remove {
+  display: show;
+}*/
 
 #trackResult {
   display: none;
