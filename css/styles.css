@@ -17,10 +17,10 @@ body {
   color: salmon !important;
 }
 
-/*
+
 .remove {
-  display: show;
-}*/
+  display: none;
+}
 
 #trackResult {
   display: none;
