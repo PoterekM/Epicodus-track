@@ -22,18 +22,21 @@ $(document).ready(function(){
       $("#initialShow").hide();
       $("#java").hide();
       $("#ruby").hide();
+      $("#radioForm").hide();
     } else if (userValue <= 10) {
       // $(".remove").removeClass("p");
       $("#java").show();
       $("#initialShow").hide();
       $("#cSharp").hide();
       $("#ruby").hide();
+      $("#radioForm").hide();
     } else if (userValue <= 15) {
       // $(".remove").removeClass("p");
       $("#ruby").show();
       $("#initialShow").hide();
       $("#cSharp").hide();
       $("#java").hide();
+      $("#radioForm").hide();
     }
     // $("p").show(".remove");
     $("#trackResult").show(userValue);
