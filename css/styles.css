@@ -18,17 +18,23 @@ body {
 }
 
 
-.remove {
+/*.remove {
   display: none;
-}
+}*/
 
 #trackResult {
   display: none;
 }
 
-#cSharp, #java, #ruby {
-  display: none;
+.trackName {
+  color: teal;
+  font-weight: bolder;
 }
+
+
+/*#cSharp, #java, #ruby {
+  display: none;
+}*/
 
 #initialShow {
   display: show;
