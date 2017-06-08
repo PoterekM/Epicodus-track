@@ -11,9 +11,9 @@ _In order to apply to Epicodus each student must decide what language they want 
 ## Setup/Installation Requirements
 
 *  Open Terminal and navigate to desktop by typing in _$ cd deskop_
-*  _$ git clone https://github.com/PoterekM/Epicodus-track.git _
+*  _$ git clone https://github.com/PoterekM/Epicodus-track.git_
 *  _$ cd Epicodus-track_
-*  _$ open index.html _
+*  _$ open index.html_
 *  OR here is the remote link: https://poterekm.github.io/Epicodus-track/
 
 
