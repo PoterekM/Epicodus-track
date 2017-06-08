@@ -10,11 +10,11 @@ _In order to apply to Epicodus each student must decide what language they want 
 
 ## Setup/Installation Requirements
 
-* _Open Terminal and type in:_
-*  _cd Desktop_
-*  _git clone https://github.com/PoterekM/Epicodus-track.git_
-* _then go to the folder and open index.html_
-* _OR here is the remote link: poterekm.github.io/Epicodus-track/_
+* _ Open Terminal and navigate to desktop by typing in $ cd deskop:_
+* _ $ git clone https://github.com/PoterekM/Epicodus-track.git_
+* _ $ cd Epicodus-track/_
+* _ $ open index.html_
+* _ OR here is the remote link: poterekm.github.io/Epicodus-track/_
 
 
 ## Known Bugs
@@ -25,7 +25,7 @@ _The application will not hide old responses for track recommendations_
 
 ## Support and contact details
 
-_If you have any feedback, feel free to email me at michelle@poterek.com_
+_If you have any feedback, feel free to email me at poterekm@gmail.com_
 
 ## Technologies Used
 
