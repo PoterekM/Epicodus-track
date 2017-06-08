@@ -43,6 +43,18 @@ body {
   display: none;
 }
 
+#cSharp {
+  display: none;
+}
+
+#java {
+  display: none;
+}
+
+#ruby {
+  display: none;
+}
+
 .trackName {
   color: teal;
   font-weight: bolder;
